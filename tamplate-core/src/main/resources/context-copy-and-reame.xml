@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource auth="Container" 
+driverClassName="org.postgresql.Driver"
+	global="jdbc/transferr" 
+	maxActive="100" maxIdle="20" maxWait="1000"
+	minIdle="5" 
+	name="jdbc/transferr" 
+	password="d4218a8828a8b18a95a2f19706f770384d4fc75251b150c6b2e7063047fceffd" 
+	type="javax.sql.DataSource"
+	url="postgres://aijjzvkezcesjg:d4218a8828a8b18a95a2f19706f770384d4fc75251b150c6b2e7063047fceffd@ec2-107-22-175-33.compute-1.amazonaws.com:5432/d4n584of55d4b1"
+	username="aijjzvkezcesjg" />
